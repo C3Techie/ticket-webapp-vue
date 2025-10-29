@@ -9,20 +9,9 @@
         </div>
         
         <div class="text-text-secondary text-sm">
-          <p>&copy; 2024 TicketFlow. All rights reserved.</p>
+          <p>&copy; 2025 TicketFlow. All rights reserved.</p>
         </div>
-        
-        <div class="flex space-x-6 mt-4 md:mt-0">
-          <a href="#" class="text-text-secondary hover:text-accent transition-colors text-sm">
-            Privacy
-          </a>
-          <a href="#" class="text-text-secondary hover:text-accent transition-colors text-sm">
-            Terms
-          </a>
-          <a href="#" class="text-text-secondary hover:text-accent transition-colors text-sm">
-            Contact
-          </a>
-        </div>
+
       </div>
     </div>
   </footer>
